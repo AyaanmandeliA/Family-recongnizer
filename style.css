@@ -1,0 +1,19 @@
+body
+{
+background: rgb(233, 7, 37);
+text-align: center;
+}
+
+.heading
+{
+    color: royalblue;
+    width: 80%;
+    font-size: 50px;
+}
+
+#camera
+{
+    border: 2px dashed whitesmoke;
+    width: 350px;
+    height: 300px;
+}
